@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-![Marcos's GitHub Banner](./assets/GitHubHeader.svg)
-<h1 align="center">Oi 👋, eu sou Marcos</h1>
-=======
+<img src="./assets/GitHubHeader.svg">
 <h1 align="center">Oi 👋, eu sou Marcos</h1>
 <h3 align="center">Um desenvolver qualquer</h3>
 
