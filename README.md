@@ -1,5 +1,4 @@
 <h1 align="center">Oi 👋, eu sou Marcos</h1>
-<hr size="1">
 <h3 align="center">Um desenvolver qualquer</h3>
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=MarcosHADM.MarcosHADM)](https://github.com/MarcosHADM) [![Github followers](https://img.shields.io/github/followers/MarcosHADM.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/MarcosHADM?tab=followers)
