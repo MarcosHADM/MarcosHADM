@@ -1,5 +1,5 @@
 <img src="./assets/GitHubHeader.svg">
-
+![Metrics](/github-metrics.svg)
 <h3 align="center">Um desenvolver qualquer</h3>
 
 <p align="center"> 
